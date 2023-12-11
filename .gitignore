@@ -1,4 +1,4 @@
 # .gitignore
 
 # Ignore all files named config.yaml
-**/config.yaml
+config.yaml

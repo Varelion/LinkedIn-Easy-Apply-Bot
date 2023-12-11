@@ -3,9 +3,8 @@
 
 # Exclude a specific file
 config.yaml
-*/config.yaml
-**/config.yaml
-
+resume.docx
+__pycache__
 
 # Include a specific .log file
 !important.log
